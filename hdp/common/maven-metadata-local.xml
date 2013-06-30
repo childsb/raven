@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>hdp</groupId>
+  <artifactId>common</artifactId>
+  <versioning>
+    <release>2.0.3.22-alpha</release>
+    <versions>
+      <version>2.0.3.22-alpha</version>
+    </versions>
+    <lastUpdated>20130630020330</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,10 +1,10 @@
 <distributionManagement>
     <repository>
         <id>repo</id>
-        <url>https://github.com/childsb/raven.git</url>
+        <url>https://github.com/childsb/raven/blob/master/releases</url>
     </repository>
     <snapshotRepository>
         <id>snapshot-repo</id>
-        <url>https://github.com/cemerick/cemerick-mvn-repo/raw/master/snapshots</url>
+        <url>https://github.com/childsb/raven/blob/master/snapshots</url>
     </snapshotRepository>
 </distributionManagement>
